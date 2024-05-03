@@ -1,0 +1,61 @@
+.titleCard h1{
+    text-align: center;
+    color: #7D0E13;
+}
+
+.table {
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+}
+
+.table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.table th,
+.table td {
+    padding: 12px 15px;
+}
+
+.table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+.shop{
+   display: flex; 
+   justify-content: space-between;
+}
+
+.case1{
+    display: flex;
+}
+
+.case2{
+    display: flex;
+}
+
+img{
+        width : 150px; height : 150px;
+        border: none;
+        -moz-border-radius : 9px;
+        -webkit-border-radius : 75px;
+        border-radius : 9px;
+}
+
+.TotalPrice{
+    margin-right: 60px;
+}
+
+.total{
+    display: flex;
+}
+
